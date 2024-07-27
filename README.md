@@ -1,3 +1,3 @@
-# This is a Baisc todo Application med using React
+# This is a Baisc todo Application made using React
 
 
